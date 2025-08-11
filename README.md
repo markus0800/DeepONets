@@ -1,6 +1,7 @@
 Porject at Tu Delft in Scientific machine learning 
 
-The project explored sampling techniques for DeepONets.  
+The project explored sampling techniques for DeepONets. Implementation is done with the JAX library and based on framework presented in class. 
+
 We studied how the number of sensors and batch sampling effect learning rate and error. 
 This was done in two diffferent settings, one dimensional cosinus antiderivative and the time dependent convection diffusion equation. 
 
